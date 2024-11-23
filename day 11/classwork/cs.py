@@ -1,1 +1,1 @@
-#no hw
+print("no classwork")

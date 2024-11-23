@@ -1,1 +1,1 @@
-print("no homework")
+print("codewarsebi dawerili maq!!")
